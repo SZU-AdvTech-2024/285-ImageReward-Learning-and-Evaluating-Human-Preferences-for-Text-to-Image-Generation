@@ -1,0 +1,11 @@
+@inproceedings{REPO285,
+    author = "Xu, Jiazheng and Liu, Xiao and Wu, Yuchen and Tong, Yuxuan and Li, Qinkai and Ding, Ming and Tang, Jie and Dong, Yuxiao",
+    editor = "Oh, A. and Naumann, T. and Globerson, A. and Saenko, K. and Hardt, M. and Levine, S.",
+    booktitle = "Advances in Neural Information Processing Systems",
+    pages = "15903--15935",
+    publisher = "Curran Associates, Inc.",
+    title = "{ImageReward: Learning and Evaluating Human Preferences for Text-to-Image Generation}",
+    url = "https://proceedings.neurips.cc/paper\_files/paper/2023/file/33646ef0ed554145eab65f6250fab0c9-Paper-Conference.pdf",
+    volume = "36",
+    year = "2023"
+}
