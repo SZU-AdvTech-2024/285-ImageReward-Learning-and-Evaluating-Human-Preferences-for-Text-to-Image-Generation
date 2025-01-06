@@ -5,7 +5,6 @@
     pages = "15903--15935",
     publisher = "Curran Associates, Inc.",
     title = "{ImageReward: Learning and Evaluating Human Preferences for Text-to-Image Generation}",
-    url = "https://proceedings.neurips.cc/paper\_files/paper/2023/file/33646ef0ed554145eab65f6250fab0c9-Paper-Conference.pdf",
     volume = "36",
     year = "2023"
 }
